@@ -35,7 +35,7 @@
 
 ### 📚 My techstack:
 </br>
-#### Tools and gedgets
+<h3>Tools and gedgets<\h3>
 </br>
 
 ---
@@ -54,9 +54,9 @@
 <img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </br>
+
 </br>
-</br>
-#### Frontend
+<h3>Frontend<\h3>
 </br>
 
 ---
@@ -71,9 +71,9 @@
 <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 </br>
+
 </br>
-</br>
-#### Backend
+<h3>Backend<\h3>
 </br>
 
 ---
@@ -83,10 +83,9 @@
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </br>
-</br>
 
 </br>
-#### Learning
+<h3>Learning<\h3>
 </br>
 
 --- 
