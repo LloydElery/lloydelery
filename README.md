@@ -35,7 +35,7 @@
 
 ### 📚 My techstack:
 </br>
-<h3>Tools and gedgets<\h3>
+<h4>Tools and gedgets
 </br>
 
 ---
@@ -56,7 +56,7 @@
 </br>
 
 </br>
-<h3>Frontend<\h3>
+<h4>Frontend
 </br>
 
 ---
@@ -73,7 +73,7 @@
 </br>
 
 </br>
-<h3>Backend<\h3>
+<h4>Backend
 </br>
 
 ---
@@ -85,7 +85,7 @@
 </br>
 
 </br>
-<h3>Learning<\h3>
+<h4>Learning
 </br>
 
 --- 
