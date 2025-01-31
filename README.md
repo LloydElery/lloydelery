@@ -44,6 +44,14 @@
 [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,php,sqlite,jquery)](https://skillicons.dev)
 
 ---
+#### Want to learn
+[![Want to learn](https://skillicons.dev/icons?i=deno,firebase,ruby,rails,supabase,vue)](https://skillicons.dev)
+
+---
+#### Learning
+[![Learning](https://skillicons.dev/icons?i=django,flask,py,rabbitmq,redux)](https://skillicons.dev)
+
+---
 #### Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=angular,nextjs,react,laravel,express)](https://skillicons.dev)
 
@@ -59,13 +67,6 @@
 #### Editors
 [![Editors](https://skillicons.dev/icons?i=obsidian,md,norton,)](https://skillicons.dev)
 
----
-#### Learning
-[![Learning](https://skillicons.dev/icons?i=django,flask,py,rabbitmq,redux)](https://skillicons.dev)
-
----
-#### Want to learn
-[![Want to learn](https://skillicons.dev/icons?i=deno,firebase,ruby,rails,supabase,vue)](https://skillicons.dev)
 
 ---
 #### Communication & Social
