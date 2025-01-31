@@ -60,6 +60,10 @@
 [![Database](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
 ---
+#### Package-handlers
+[![Packages](https://skillicons.dev/icons?i=npm,pnpm,bun,)](https://skillicons.dev)
+
+---
 #### Libraries
 [![Libraries](https://skillicons.dev/icons?i=bootstrap,sass,failwind)](https://skillicons.dev)
 
@@ -67,14 +71,9 @@
 #### Editors
 [![Editors](https://skillicons.dev/icons?i=obsidian,md,norton,)](https://skillicons.dev)
 
-
 ---
 #### Communication & Social
 [![Technologies](https://skillicons.dev/icons?i=discord,stackoverflow)](https://skillicons.dev)
-
----
-#### Package-handlers
-[![Packages](https://skillicons.dev/icons?i=npm,pnpm,bun,)](https://skillicons.dev)
 
 ---
 
