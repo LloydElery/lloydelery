@@ -22,10 +22,11 @@
 
 </br>
 
-<div align="left" style="display: flex; gap: 4px">
-<img style="height: 170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lloydelery&show_icons=true&locale=en&layout=compact" alt="lloydelery" /></p>
-<img style="height: 170px" src="https://github-readme-streak-stats.herokuapp.com/?user=lloydelery&" alt="lloydelery" /></p>
-</div>
+
+![LloydElery's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LloydElery&theme=juicyfresh&show_icons=true&hide_border=true&layout=compact)
+
+  ![LloydElery's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LloydElery&theme=juicyfresh&hide_border=true)
+
 
 </br>
 
@@ -35,7 +36,6 @@
 
 ### 📚 My techstack:
 
----
 #### Technologies
 [![Technologies](https://skillicons.dev/icons?i=bash,powershell,docker,git,github,windows,linux,ubuntu,vercel,vite,vscode,figma,)](https://skillicons.dev)
 
