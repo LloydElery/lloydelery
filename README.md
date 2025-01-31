@@ -2,7 +2,6 @@
 
 `Fullstack Developer, E-Commerce Manager and Chef with alot cooking`
 
----
 ## My Projects
 #### [Weather App](https://wwwapp.netlify.app/)
 
@@ -96,6 +95,3 @@
 </a>
 
 </br>
-
----
-
