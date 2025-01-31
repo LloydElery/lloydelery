@@ -16,7 +16,12 @@
 <img align="left" alt="StackOverflow" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
 
+</br>
+
 ---
+
+</br>
+
 
 ![LloydElery's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LloydElery&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
@@ -24,7 +29,8 @@
 
 ![LloydElery's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LloydElery&theme=prussian&hide_border=true)
 
----
+
+</br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LloydElery&ryo-ma&theme=juicyfresh&column=-1&margin-w=15&&margin-h=15&no-frame=true&no-bg=true" alt="lloydelery" /></a> </p>
 
