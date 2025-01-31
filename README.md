@@ -36,23 +36,43 @@
 ### 📚 My techstack:
 
 ---
-
-[![Tools and gedgets](https://skillicons.dev/icons?i=obsidian,md,bash,powershell,discord,docker,git,github,windows,linux,ubuntu,notion,npm,pnpm,stackoverflow,sequelize,vercel,vite,vscode)](https://skillicons.dev)
-
----
-
-[![Frontend](https://skillicons.dev/icons?i=angular,bootstrap,css,figma,html,js,nextjs,react,sass,tailwind,ts)](https://skillicons.dev)
+#### Languages
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,php,sqlite,jquery)](https://skillicons.dev)
 
 ---
-
-[![Backend](https://skillicons.dev/icons?i=obsidian,express,js,jquery,laravel,mongodb,mysql,nextjs,nodejs,php,postgres,sqlite,ts)](https://skillicons.dev)
+#### Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=angular,nextjs,react,laravel,express)](https://skillicons.dev)
 
 ---
+#### Libraries
+[![Libraries](https://skillicons.dev/icons?i=bootstrap,sass,failwind)](https://skillicons.dev)
 
+---
+#### Database
+[![Database](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
+
+---
+#### Technologies
+[![Technologies](https://skillicons.dev/icons?i=bash,powershell,docker,git,github,windows,linux,ubuntu,vercel,vite,vscode,figma,)](https://skillicons.dev)
+
+---
+#### Packages
+[![Packages](https://skillicons.dev/icons?i=npm,pnpm,bun,)](https://skillicons.dev)
+
+---
+#### Editors
+[![Editors](https://skillicons.dev/icons?i=obsidian,md,norton,)](https://skillicons.dev)
+
+---
+#### Communication & Social
+[![Technologies](https://skillicons.dev/icons?i=discord,stackoverflow)](https://skillicons.dev)
+
+---
+#### Learning
 [![Learning](https://skillicons.dev/icons?i=django,flask,py,rabbitmq,redux)](https://skillicons.dev)
 
 ---
-
+#### Want to learn
 [![Want to learn](https://skillicons.dev/icons?i=deno,firebase,ruby,rails,supabase,vue)](https://skillicons.dev)
 
 ---
@@ -60,39 +80,22 @@
 ## My Projects
 #### [Weather App](https://wwwapp.netlify.app/)
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+[![Weather App](https://skillicons.dev/icons?i=ts,react,tailwind)](https://skillicons.dev)
 <img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
 
-</br>
+---
 
 #### [Recipe App](https://happiermeal.netlify.app)
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+[![Recipe App](https://skillicons.dev/icons?i=ts,angular,tailwind)](https://skillicons.dev)
 <img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
-
-</br>
 
 #### IMDB Clone
 
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-
-</br>
+[![IMDB Clone](https://skillicons.dev/icons?i=php,laravel,tailwind,vercel)](https://skillicons.dev)
 
 #### [MTGTomb](https://mtg-tomb.netlify.app/) - All things Magic the Gathering
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+[![MTGTomb](https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,mongodb,express)](https://skillicons.dev)
 <img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
-
 
