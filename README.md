@@ -20,7 +20,34 @@
 
 ---
 
-</br>
+## My Projects
+#### [Weather App](https://wwwapp.netlify.app/)
+
+[![Weather App](https://skillicons.dev/icons?i=ts,react,tailwind)](https://skillicons.dev)
+<img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
+
+---
+
+#### [Recipe App](https://happiermeal.netlify.app)
+
+[![Recipe App](https://skillicons.dev/icons?i=ts,angular,tailwind)](https://skillicons.dev)
+<img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
+
+---
+
+#### IMDB Clone
+
+[![IMDB Clone](https://skillicons.dev/icons?i=php,laravel,tailwind,vercel)](https://skillicons.dev)
+
+---
+
+#### [MTGTomb](https://mtg-tomb.netlify.app/) - All things Magic the Gathering
+
+[![MTGTomb](https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,mongodb,express)](https://skillicons.dev)
+<img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
+
+
+---
 
 
 ![LloydElery's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LloydElery&theme=prussian&show_icons=true&hide_border=true&layout=compact)
@@ -77,31 +104,4 @@
 #### Communication & Social
 [![Technologies](https://skillicons.dev/icons?i=discord,stackoverflow)](https://skillicons.dev)
 
----
-
-## My Projects
-#### [Weather App](https://wwwapp.netlify.app/)
-
-[![Weather App](https://skillicons.dev/icons?i=ts,react,tailwind)](https://skillicons.dev)
-<img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
-
----
-
-#### [Recipe App](https://happiermeal.netlify.app)
-
-[![Recipe App](https://skillicons.dev/icons?i=ts,angular,tailwind)](https://skillicons.dev)
-<img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
-
----
-
-#### IMDB Clone
-
-[![IMDB Clone](https://skillicons.dev/icons?i=php,laravel,tailwind,vercel)](https://skillicons.dev)
-
----
-
-#### [MTGTomb](https://mtg-tomb.netlify.app/) - All things Magic the Gathering
-
-[![MTGTomb](https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,mongodb,express)](https://skillicons.dev)
-<img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
 
