@@ -36,6 +36,10 @@
 ### 📚 My techstack:
 
 ---
+#### Technologies
+[![Technologies](https://skillicons.dev/icons?i=bash,powershell,docker,git,github,windows,linux,ubuntu,vercel,vite,vscode,figma,)](https://skillicons.dev)
+
+---
 #### Languages
 [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,php,sqlite,jquery)](https://skillicons.dev)
 
@@ -44,28 +48,16 @@
 [![Frameworks](https://skillicons.dev/icons?i=angular,nextjs,react,laravel,express)](https://skillicons.dev)
 
 ---
-#### Libraries
-[![Libraries](https://skillicons.dev/icons?i=bootstrap,sass,failwind)](https://skillicons.dev)
-
----
 #### Database
 [![Database](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
 ---
-#### Technologies
-[![Technologies](https://skillicons.dev/icons?i=bash,powershell,docker,git,github,windows,linux,ubuntu,vercel,vite,vscode,figma,)](https://skillicons.dev)
-
----
-#### Packages
-[![Packages](https://skillicons.dev/icons?i=npm,pnpm,bun,)](https://skillicons.dev)
+#### Libraries
+[![Libraries](https://skillicons.dev/icons?i=bootstrap,sass,failwind)](https://skillicons.dev)
 
 ---
 #### Editors
 [![Editors](https://skillicons.dev/icons?i=obsidian,md,norton,)](https://skillicons.dev)
-
----
-#### Communication & Social
-[![Technologies](https://skillicons.dev/icons?i=discord,stackoverflow)](https://skillicons.dev)
 
 ---
 #### Learning
@@ -74,6 +66,14 @@
 ---
 #### Want to learn
 [![Want to learn](https://skillicons.dev/icons?i=deno,firebase,ruby,rails,supabase,vue)](https://skillicons.dev)
+
+---
+#### Communication & Social
+[![Technologies](https://skillicons.dev/icons?i=discord,stackoverflow)](https://skillicons.dev)
+
+---
+#### Package-handlers
+[![Packages](https://skillicons.dev/icons?i=npm,pnpm,bun,)](https://skillicons.dev)
 
 ---
 
@@ -90,9 +90,13 @@
 [![Recipe App](https://skillicons.dev/icons?i=ts,angular,tailwind)](https://skillicons.dev)
 <img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
 
+---
+
 #### IMDB Clone
 
 [![IMDB Clone](https://skillicons.dev/icons?i=php,laravel,tailwind,vercel)](https://skillicons.dev)
+
+---
 
 #### [MTGTomb](https://mtg-tomb.netlify.app/) - All things Magic the Gathering
 
