@@ -25,7 +25,9 @@
 
 ![LloydElery's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LloydElery&theme=juicyfresh&show_icons=true&hide_border=true&layout=compact)
 
-  ![LloydElery's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LloydElery&theme=juicyfresh&hide_border=true)
+![LloydElery's Stats](https://github-readme-stats.vercel.app/api?username=LloydElery&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+
+![LloydElery's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LloydElery&theme=juicyfresh&hide_border=true)
 
 
 </br>
