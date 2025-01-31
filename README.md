@@ -30,24 +30,7 @@
 <img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
 
 ---
-### Contacts
-
-<a href="https://www.linkedin.com/in/dennis-jensen-stockholm/">
-<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="https://stackoverflow.com/users/23033980/lloyd-elery">
-<img align="left" alt="StackOverflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" />
-</a>
-<a href="https://discord.gg/8SRNuNXTXk">
-<img align="left" alt="StackOverflow" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
-</a>
-
 </br>
-
----
-
-</br>
-
 
 ![LloydElery's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LloydElery&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
@@ -98,3 +81,21 @@
 ---
 #### Editors
 [![Editors](https://skillicons.dev/icons?i=obsidian,md,norton,)](https://skillicons.dev)
+
+---
+### Contacts
+
+<a href="https://www.linkedin.com/in/dennis-jensen-stockholm/">
+<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
+<a href="https://stackoverflow.com/users/23033980/lloyd-elery">
+<img align="left" alt="StackOverflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" />
+</a>
+<a href="https://discord.gg/8SRNuNXTXk">
+<img align="left" alt="StackOverflow" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
+</a>
+
+</br>
+
+---
+
