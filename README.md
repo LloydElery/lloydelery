@@ -5,33 +5,33 @@
 ## My Projects
 #### [Wordfeud Hjälpen](https://win-at-wordfeud.vercel.app/) - Wordfeud Search engine
 
-[![Wordfeude Hjälpen](https://skillicons.dev/icons?i=ts,react,tailwind,nextjs,postgres,pnpm,vercel&perline=3&perline=3&perline=3&theme=dark)](https://skillicons.dev)
+[![Wordfeude Hjälpen](https://skillicons.dev/icons?i=ts,react,tailwind,nextjs,postgres,pnpm,vercel&perline=4&perline=4&perline=4&theme=dark)](https://skillicons.dev)
 
 ---
 
 #### [MTGTomb](https://mtg-tomb.netlify.app/) - All things Magic the Gathering
 
-[![MTGTomb](https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,mongodb,express&perline=3&perline=3&theme=dark)](https://skillicons.dev)
+[![MTGTomb](https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,mongodb,express&perline=4&perline=4&theme=dark)](https://skillicons.dev)
 <img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
 
 ---
 #### [Weather App](https://wwwapp.netlify.app/)
 
-[![Weather App](https://skillicons.dev/icons?i=ts,react,tailwind&perline=3&perline=3&theme=dark)](https://skillicons.dev)
+[![Weather App](https://skillicons.dev/icons?i=ts,react,tailwind&perline=4&perline=4&theme=dark)](https://skillicons.dev)
 <img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
 
 ---
 
 #### [Recipe App](https://happiermeal.netlify.app)
 
-[![Recipe App](https://skillicons.dev/icons?i=ts,angular,tailwind&perline=3&perline=3&theme=dark)](https://skillicons.dev)
+[![Recipe App](https://skillicons.dev/icons?i=ts,angular,tailwind&perline=4&perline=4&theme=dark)](https://skillicons.dev)
 <img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
 
 ---
 
 #### IMDB Clone
 
-[![IMDB Clone](https://skillicons.dev/icons?i=php,laravel,tailwind,vercel&perline=3&perline=3&theme=dark)](https://skillicons.dev)
+[![IMDB Clone](https://skillicons.dev/icons?i=php,laravel,tailwind,vercel&perline=4&perline=4&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -53,39 +53,39 @@
 ### 📚 My techstack:
 
 #### Technologies
-[![Technologies](https://skillicons.dev/icons?i=bash,powershell,docker,git,github,windows,linux,ubuntu,vercel,vite,vscode,figma,&perline=3&perline=3&theme=dark)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=bash,powershell,docker,git,github,windows,linux,ubuntu,vercel,vite,vscode,figma,&perline=4&perline=4&theme=dark)](https://skillicons.dev)
 
 ---
 #### Languages
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,php,sqlite,jquery&perline=3&perline=3&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,php,sqlite,jquery&perline=4&perline=4&theme=dark)](https://skillicons.dev)
 
 ---
 #### Want to learn
-[![Want to learn](https://skillicons.dev/icons?i=deno,firebase,ruby,rails,supabase,vue&perline=3&perline=3&theme=dark)](https://skillicons.dev)
+[![Want to learn](https://skillicons.dev/icons?i=deno,firebase,ruby,rails,supabase,vue&perline=4&perline=4&theme=dark)](https://skillicons.dev)
 
 ---
 #### Learning
-[![Learning](https://skillicons.dev/icons?i=django,flask,py,rabbitmq,redux&perline=3&perline=3&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=django,flask,py,rabbitmq,redux&perline=4&perline=4&theme=dark)](https://skillicons.dev)
 
 ---
 #### Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=angular,nextjs,react,laravel,express&perline=3&perline=3&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=angular,nextjs,react,laravel,express&perline=4&perline=4&theme=dark)](https://skillicons.dev)
 
 ---
 #### Database
-[![Database](https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=3&perline=3&theme=dark)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=4&perline=4&theme=dark)](https://skillicons.dev)
 
 ---
 #### Package-handlers
-[![Packages](https://skillicons.dev/icons?i=npm,pnpm,bun,&perline=3&perline=3&theme=dark)](https://skillicons.dev)
+[![Packages](https://skillicons.dev/icons?i=npm,pnpm,bun,&perline=4&perline=4&theme=dark)](https://skillicons.dev)
 
 ---
 #### Libraries
-[![Libraries](https://skillicons.dev/icons?i=bootstrap,sass,failwind&perline=3&perline=3&theme=dark)](https://skillicons.dev)
+[![Libraries](https://skillicons.dev/icons?i=bootstrap,sass,failwind&perline=4&perline=4&theme=dark)](https://skillicons.dev)
 
 ---
 #### Editors
-[![Editors](https://skillicons.dev/icons?i=obsidian,md,norton,&perline=3&perline=3&theme=dark)](https://skillicons.dev)
+[![Editors](https://skillicons.dev/icons?i=obsidian,md,norton,&perline=4&perline=4&theme=dark)](https://skillicons.dev)
 
 ---
 ### Contacts
