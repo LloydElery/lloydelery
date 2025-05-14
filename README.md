@@ -3,6 +3,19 @@
 `Fullstack Developer, E-Commerce Manager and Chef with alot cooking`
 
 ## My Projects
+#### [Wordfeud Hjälpen](https://win-at-wordfeud.vercel.app/) - Wordfeud Search engine
+
+[![Wordfeude Hjälpen](https://skillicons.dev/icons?i=ts,react,tailwind,nextjs,postgres,pnpm,vercel&theme=dark)](https://skillicons.dev)
+<img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
+
+---
+
+#### [MTGTomb](https://mtg-tomb.netlify.app/) - All things Magic the Gathering
+
+[![MTGTomb](https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,mongodb,express&theme=dark)](https://skillicons.dev)
+<img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
+
+---
 #### [Weather App](https://wwwapp.netlify.app/)
 
 [![Weather App](https://skillicons.dev/icons?i=ts,react,tailwind&theme=dark)](https://skillicons.dev)
@@ -23,19 +36,6 @@
 
 ---
 
-#### [MTGTomb](https://mtg-tomb.netlify.app/) - All things Magic the Gathering
-
-[![MTGTomb](https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,mongodb,express&theme=dark)](https://skillicons.dev)
-<img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
-
----
-
-#### [Wordfeud Hjälpen](https://win-at-wordfeud.vercel.app/) - Wordfeud Search engine
-
-[![Wordfeude Hjälpen](https://skillicons.dev/icons?i=ts,react,tailwind,nextjs,psql,pnpm,postgres,vercel&theme=dark)](https://skillicons.dev)
-<img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
-
----
 </br>
 
 ![LloydElery's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LloydElery&theme=prussian&show_icons=true&hide_border=true&layout=compact)
