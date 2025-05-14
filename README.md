@@ -6,7 +6,6 @@
 #### [Wordfeud Hjälpen](https://win-at-wordfeud.vercel.app/) - Wordfeud Search engine
 
 [![Wordfeude Hjälpen](https://skillicons.dev/icons?i=ts,react,tailwind,nextjs,postgres,pnpm,vercel&theme=dark)](https://skillicons.dev)
-<img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
 
 ---
 
