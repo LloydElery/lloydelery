@@ -2,6 +2,8 @@
 
 `Fullstack Developer, E-Commerce Manager and Chef with alot cooking`
 
+![Snake animation](https://github.com/LloydElery/LloydElery/blob/output/github-contribution-grid-snake.svg)
+
 ## My Projects
 #### [Wordfeud Hjälpen](https://win-at-wordfeud.vercel.app/) - Wordfeud Search engine
 
