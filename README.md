@@ -1,4 +1,4 @@
-# 🐊 Dennis Lloyd Elery Jensen
+# Dennis *Lloyd Elery* Jensen
 
 `Fullstack Developer, E-Commerce Manager and Chef with alot cooking`
 
