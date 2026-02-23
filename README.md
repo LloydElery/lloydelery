@@ -43,6 +43,8 @@
 
 ![LloydElery's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LloydElery&theme=prussian&hide_border=true)
 
+![LloydElery's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=LloydElery&theme=dark&show_icons=true)
+
 
 </br>
 
